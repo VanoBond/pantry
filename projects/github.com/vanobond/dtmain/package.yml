@@ -2,7 +2,7 @@ provides:
   - bybit_to_tradingview
 
 description: >
-  Скрипт для передачи данных из Bybit в TradingView.
+  Скрипт на Python для передачи данных из Bybit в TradingView.
 
 homepage: https://github.com/vanobond/dtmain
 
